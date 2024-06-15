@@ -25,8 +25,9 @@ struct todolistApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
 //            RootView()
+            AddressTestView()
         }
 //        .modelContainer(sharedModelContainer)
     }
